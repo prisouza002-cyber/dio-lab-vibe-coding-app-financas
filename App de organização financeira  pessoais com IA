@@ -1,0 +1,135 @@
+App de Organização de Finanças Pessoais da Pri com IA.
+
+
+
+Objetivo do MVP
+
+Validar se usuários iniciantes conseguem registrar e acompanhar seus gastos de forma simples e natural por meio de conversas, sem depender de planilhas ou formulários complexos.
+
+
+
+---
+
+
+
+📱 Principais Telas
+
+1. Tela de Conversa (Chat Financeiro)
+
+- Entrada de texto em linguagem natural (“Gastei R$50 no mercado”).
+
+- Respostas do “Agente Financeiro” com confirmação e classificação automática.
+
+- Sugestões rápidas de categorias (ex.: alimentação, transporte, lazer).
+
+
+
+2. Tela de Metas
+
+- Definição de objetivos simples (ex.: “Quero economizar R$200 este mês”).
+
+- Barra de progresso mostrando evolução.
+
+
+
+3. Tela de Relatórios
+
+- Gráficos básicos (pizza ou barras) com categorias de gastos.
+
+- Resumo semanal/mensal em linguagem acessível (“Você gastou 30% em alimentação”).
+
+
+
+4. Tela de Dicas
+
+- Recomendações personalizadas do “Agente Financeiro”.
+
+- Exemplos: “Se reduzir 10% dos gastos com delivery, você economiza R$80/mês”.
+
+
+
+---
+
+
+
+⚙️ Recursos Necessários
+
+- Processamento de linguagem natural (NLP): interpretar frases como “paguei R$100 de luz”.
+
+- Classificação automática: atribuir categorias aos gastos.
+
+- Banco de dados simples: armazenar transações, metas e relatórios.
+
+- Motor de recomendações: gerar dicas de economia baseadas nos hábitos do usuário.
+
+- Interface conversacional: design amigável, estilo mensageiro.
+
+
+
+---
+
+
+
+✅ Validação Inicial
+
+1. Teste com grupo piloto (10–20 pessoas):
+
+- Observar se conseguem registrar gastos sem frustração.
+
+- Medir engajamento: quantas vezes voltam a usar o app por semana.
+
+2. Feedback qualitativo:
+
+- Perguntar se sentem que o app “facilita” ou “complica” o controle financeiro.
+
+3. Métricas de sucesso:
+
+- % de gastos registrados via chat.
+
+- % de usuários que definem pelo menos uma meta.
+
+- Retenção após 2 semanas.
+
+
+
+---
+
+
+
+🚀 Próximos Passos
+
+- Criar protótipo navegável com foco no chat e relatórios básicos.
+
+- Testar com usuários reais e ajustar linguagem/respostas do “Agente Financeiro”.
+
+- Expandir para integrações futuras (cartão de crédito, bancos).
+
+
+
+Resumo do App
+
+O app de Finanças Pessoais com IA permite organizar gastos de forma prática via chat. O usuário registra despesas em linguagem natural, recebe classificação automática, define metas simples e acompanha relatórios básicos com dicas de economia personalizadas.
+
+
+
+---
+
+
+
+💭 Reflexão
+
+- Funcionou bem:
+
+a experiência conversacional deixou o controle financeiro mais leve e intuitivo.  
+
+
+
+- Não funcionou como esperado:
+
+a categorização automática ainda precisa ser refinada para frases mais complexas.  
+
+
+
+- Aprendizado:
+
+descobri que prompts claros são essenciais para obter boas respostas da IA e que conversar com ela é como ter um parceiro de ideias, mas cabe a mim direcionar o que faz sentido para o usuário final.
